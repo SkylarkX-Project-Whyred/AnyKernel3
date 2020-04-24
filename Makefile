@@ -1,4 +1,4 @@
-NAME ?= STRIX
+NAME ?= SONIC
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
