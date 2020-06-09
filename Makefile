@@ -2,7 +2,7 @@ NAME ?=Sonic
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := kernel-whyred
+CODE := -XT-RMX1921-X1.1
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
